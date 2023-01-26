@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EmoryGame.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Könyvtár" Type="System.String" Scope="User">
+      <Value Profile="(Default)">képek</Value>
+    </Setting>
+    <Setting Name="Méret" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">128</Value>
+    </Setting>
+    <Setting Name="háttérkép" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kepek/bg@2x.png</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
